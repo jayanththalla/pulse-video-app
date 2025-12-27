@@ -1,8 +1,7 @@
-# Vantage (formerly Pulse) - Video Streaming Platform
+# Vantage  - Video Streaming Platform
 
 A detailed full-stack application for secure video uploading, processing, and streaming. Built with a focus on Role-Based Access Control (RBAC), real-time updates, and a premium user experience.
 
-![Vantage Dashboard](https://via.placeholder.com/800x400?text=Vantage+Dashboard+Preview)
 
 ## 🚀 Features
 
